@@ -1,0 +1,2 @@
+pcIndex pos.x pos.y pos.z scale
+1 -0.2959707 0 -0.2891331 0.0004884005

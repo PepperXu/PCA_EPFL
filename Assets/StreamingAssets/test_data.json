@@ -1,0 +1,58 @@
+{
+  "pointClouds": [
+    {
+      "original": "Head_00039_vox9",
+      "distorted": "Head_00039_vox9",
+      "height": 1,
+      "width": [],
+      "useStage": 1
+    },
+    {
+      "original": "romanoillamp_vox10",
+      "distorted": "romanoillamp_vox10",
+      "height": [],
+      "width": 1,
+      "useStage": 1
+    },
+    {
+      "original": "amphoriskos_vox10",
+      "distorted": "amphoriskos_vox10",
+      "height": 1,
+      "width": [],
+      "useStage": 1
+    },
+    {
+      "original": "Staue_Klimt_vox12",
+      "distorted": "Staue_Klimt_vox12",
+      "height": 2,
+      "width": [],
+      "useStage": 1
+    },
+    {
+      "original": "Shiva_00035_vox12",
+      "distorted": "Shiva_00035_vox12",
+      "height": 1,
+      "width": [],
+      "useStage": 1
+    },
+    {
+      "original": "1x1_Biplane_Combined_000_RGB_vox10",
+      "distorted": "1x1_Biplane_Combined_000_RGB_vox10",
+      "height": [],
+      "width": 4,
+      "useStage": 0
+    },
+    {
+      "original": "Egyptian_mask_vox12",
+      "distorted": "Egyptian_mask_vox12",
+      "height": 1,
+      "width": [],
+      "useStage": 1
+    }
+  ],
+  "useInterpolation": true,
+  "pointSize": 1,
+  "tint": [ 128, 128, 128 ],
+  "expMode": "para",
+  "ratingScales": [ "imperceptable", "perceptable but not annoying", "slightly annoying", "annoying", "very annoying" ]
+}

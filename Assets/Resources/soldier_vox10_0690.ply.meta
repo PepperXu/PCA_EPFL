@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3c21c4e58de8db4a9196cf2c6486438
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: prefab/New Game Object
+    400000: prefab/New Game Object/Transform
+    2300000: prefab/New Game Object/MeshRenderer
+    3300000: prefab/New Game Object/MeshFilter
+    4300000: mesh
+    11400000: prefab/New Game Object/MonoBehaviour-Stage
+    11400002: prefab/New Game Object/MonoBehaviour-MatConfig
+    100100000: prefab
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 183c1cb276390b14e883dae29f585dfa, type: 3}
+  _containerType: 0
