@@ -2,9 +2,9 @@
 
 ## This is a project for @MMSPG
 
-### A more complex version of this project that I later developed with Dr. Evangelos Alexiou is published as [a conference paper here](https://ieeexplore.ieee.org/abstract/document/8803479). It has been awarded as top 10% paper in IEEE ICIP 2019. 
+### This project is the version without eyetracking and post processing (as they depend on external softwares and hardwares). It is considered as a basic platform for conducting point cloud evaluation experiment with different protocol. 
 
-### This project is the version without eyetracking and post processing. It is considered as a basic platform for conducting point cloud evaluation experiment with different protocol. 
+### A more complex version of this project that I later developed with Dr. Evangelos Alexiou is published as [a conference paper here](https://ieeexplore.ieee.org/abstract/document/8803479). It has been awarded as top 10% paper in IEEE ICIP 2019. 
 
 ### The eye tracking results mentioned in the report in [this folder](RecordedResults)
 
